@@ -20,7 +20,7 @@
     "react": "*",
     "react-native": "*",
     "react-native-gesture-handler": "^2.14.0",
-    "react-native-reanimated": "~2.3.1"
+    "react-native-reanimated": "^3.6.1"
   },
   "devDependencies": {
     "@types/react": "^17.0.37",
@@ -28,7 +28,7 @@
     "@types/react-test-renderer": "^17.0.1",
     "typescript": "^4.5.4",
     "react-native-gesture-handler": "^2.14.0",
-    "react-native-reanimated": "~2.3.1"
+    "react-native-reanimated": "^3.6.1"
   },
   "bugs": {
     "url": "https://github.com/joaosouz4dev/react-native-elastic-view/issues"
